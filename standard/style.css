@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+}
+
+section {
+	margin: 1em 0;
+	padding: 1em;
+	border: none;
+	border-radius: .5em;
+	box-shadow: .3em .3em 5px #ccc;
+}
+
+button {
+	background-color: #F2F2CE;
+	border-radius: .25em;
+}
+
+video {
+	display: inline-block;
+	width: 200px;
+	height: 150px;
+}
+
+img {
+	width: 400px;
+	height: 300px;
+	margin: 0 1em;
+}
+
+#emotionResult {
+	display: none;
+	background-color: #F2F2CE;
+}

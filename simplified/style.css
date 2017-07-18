@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif;
+}
+
+video {
+	width: 200px;
+	height: 150px;
+}
+
+canvas {
+	width: 400px;
+	height: 300px;
+}
+
+#emotionResult {
+	background-color: #F2F2CE;
+}
